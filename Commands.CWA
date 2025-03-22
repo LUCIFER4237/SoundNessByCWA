@@ -28,7 +28,7 @@ curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/s
 
 
 
-source ~/.bashrc
+source /home/ladla/.bashrc
 
 
 
